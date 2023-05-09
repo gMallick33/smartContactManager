@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/smartContactManager.iml" filepath="$PROJECT_DIR$/.idea/smartContactManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartcontactmanager/smartcontactmanager.iml" filepath="$PROJECT_DIR$/smartcontactmanager/smartcontactmanager.iml" />
+    </modules>
+  </component>
+</project>
